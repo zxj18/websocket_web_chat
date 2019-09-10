@@ -14,7 +14,7 @@ mvn install
 
 #### 使用说明
 
-![聊天界面](https://images.gitee.com/uploads/images/2019/0910/221254_36098392_1674690.png "屏幕截图.png")
+![聊天界面](https://images.gitee.com/uploads/images/2019/0910/221422_f21f6c3c_1674690.png "屏幕截图.png")
 
 #### 参与贡献
 
