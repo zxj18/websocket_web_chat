@@ -7,10 +7,96 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c3d5918-87b3-420c-af17-f78fc90da789" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/websocket_testdemo_Web/WEB-INF/classes/kim/ioio/web/handler/MyWebSocketMessageHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/websocket_testdemo_Web/WEB-INF/classes/spring-mvc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/websocket_testdemo_Web/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/websocket_testdemo_Web/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/kim/ioio/web/WebSocketMessageHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/kim/ioio/web/config/MyWebSocketConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/kim/ioio/web/constants/ParamKey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/kim/ioio/web/interceptors/MyWebSocketHandshakeInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/log4j2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring-mvc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/classes/kim/ioio/web/WebSocketMessageHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/classes/kim/ioio/web/config/MyWebSocketConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/classes/kim/ioio/web/constants/ParamKey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/classes/kim/ioio/web/interceptors/MyWebSocketHandshakeInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/classes/log4j2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/classes/spring-mvc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/lib/Java-WebSocket-1.3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/lib/json-20180130.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/lib/log4j-api-2.11.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/lib/log4j-core-2.11.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/lib/spring-aop-4.3.10.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/lib/spring-beans-4.3.10.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/lib/spring-context-4.3.10.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/lib/spring-context-support-4.3.10.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/lib/spring-core-4.3.10.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/lib/spring-expression-4.3.10.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/lib/spring-web-4.3.10.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/lib/spring-webmvc-4.3.10.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/lib/spring-websocket-4.3.10.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/css/amazeui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/head/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/head/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/head/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/head/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/head/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/head/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/head/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/head/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/head/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/head/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/head/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/head/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/head/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/head/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/head/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/head.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/head_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/head_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/head_2_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/head_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/head_3_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/head_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/head_4_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/head_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon13_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon14_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon15_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon16_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon17_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon18_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/icon/icon9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/images/own_head.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/js/amazeui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/js/jquery-2.1.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/js/jquery.slimscroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/js/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/js/wechat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/websocket_testdemo/js/zUI.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -554,12 +640,20 @@
       <workItem from="1537369056847" duration="387000" />
       <workItem from="1538585662005" duration="1226000" />
       <workItem from="1550489326657" duration="861000" />
-      <workItem from="1568122952338" duration="1103000" />
+      <workItem from="1568122952338" duration="1147000" />
     </task>
+    <task id="LOCAL-00001" summary="删除out">
+      <created>1568124066809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568124066810</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57458000" />
+    <option name="totallyTimeSpent" value="57502000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -612,6 +706,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除out" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除out" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
