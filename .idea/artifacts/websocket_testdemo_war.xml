@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="websocket_testdemo:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="websocket_testdemo.war">
-      <element id="artifact" artifact-name="websocket_testdemo:war exploded" />
-    </root>
-  </artifact>
-</component>
